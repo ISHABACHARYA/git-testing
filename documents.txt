@@ -1,0 +1,7 @@
+#step 1:
+We installed git
+#step 2: 
+We setup github and ssh
+#step 3:
+We did handon experience with git
+s
